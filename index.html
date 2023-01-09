@@ -22,7 +22,7 @@
                 <li>From my personal experience, hell is better XD</li>
                 <li>Five exams a year, no cap</li>
             </ul>
-        <li><a href="C:\Users\HP\Desktop\Web dev\HTML-Personal Site\jis.html">Narula Institute of Technology</a></li>
+        <li><a href="jis.html">Narula Institute of Technology</a></li>
             <ul type="circle">
                 <li>Any cuss word will be insufficient to describe this shit</li>
                 <li>Classes where?</li>
@@ -85,6 +85,6 @@
         <li>Overthinking</li>
         <li>Pretending I actually have a hobby XP</li>
     </ul>
-    <a href="C:\Users\HP\Desktop\Web dev\HTML-Personal Site\contact.html">Contact Me</a>
+    <a href="contact.html">Contact Me</a>
 </body>
 </html>
